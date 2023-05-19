@@ -1,11 +1,9 @@
-import { GlobalStyles } from './styles/GlobalStyles';
-
-
 function App() {
   return (
     <>
-      <GlobalStyles />
-      <h1>Hello inventory</h1>
+      <h1 className="text-3xl font-bold underline">
+      Hello world!
+      </h1>
     </>
   );
 }

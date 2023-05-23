@@ -1,5 +1,5 @@
-import Input from '../../components/Input';
-import LayoutLogin from '../../components/LayoutLogin';
+import Input from '../components/Input';
+import LayoutLogin from '../components/LayoutLogin';
 
 function Login() {
   const error = { message: 'E-mail inválido'};
